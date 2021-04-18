@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhavinbandhiya
 - 👀 I’m interested in Web Devplopment
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning everything
 
 <!---
 bhavinbandhiya/bhavinbandhiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
