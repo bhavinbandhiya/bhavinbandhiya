@@ -19,7 +19,7 @@
  <a href="https://twitter.com/bhavin_bandhiya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" alt="bhavin_bandhiya" height="30" width="40" /></a
 </p>
 <hr>
-<h2 align="left">Languages and Tools:</h2><br>
+<h2 align="left">Languages and Tools:</h2>
 <h4 align="left">Frontend Development:</h4>
 <p align="left">
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
