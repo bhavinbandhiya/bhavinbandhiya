@@ -7,11 +7,11 @@
 - 🌱 I’m currently learning **Everything**
 
 - 📫 How to reach me **bhavinbandhiya003@gmail.com**
-- <hr>
+ <hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bhavin_bandhiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="bhavin_bandhiya" height="30" width="40" /></a>
+<a href="https://twitter.com/bhavin_bandhiya" target="blank"><img align="center" src="https://www.google.com/search?q=twitter+logo+png&sxsrf=ALeKk02HgUcKVKCnv4CZqiWDYj3wqUcx2Q:1618861269120&tbm=isch&source=iu&ictx=1&fir=-h4dAhYX5coVwM%252Ch3NEKBwmTWmTFM%252C_&vet=1&usg=AI4_-kQYVZnQiWjU_QBGJo_1H_ISeaO1ZA&sa=X&ved=2ahUKEwjbt4uXiIvwAhX4zjgGHd1MCWoQ9QF6BAgSEAE&biw=1536&bih=722#imgrc=-h4dAhYX5coVwM" alt="bhavin_bandhiya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bhavin-bandhiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="bhavin-bandhiya" height="30" width="40" /></a>
 <a href="https://instagram.com/ahir_.bhavin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="ahir_.bhavin" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/bhavinbandhiya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bhavinbandhiya" height="30" width="40" /></a>
