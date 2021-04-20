@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://github.com/bhavinbandhiya" target="blank"><img align="center" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="bhavin_bandhiya" height="40" width="40" /></a>
+ <a href="https://github.com/bhavinbandhiya" target="blank"><img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="bhavin_bandhiya" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/bhavin-bandhiya-85a2561a6/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="bhavin-bandhiya" height="40" width="40" /></a>
 <a href="https://www.codechef.com/users/bhavinbandhiya" target="blank"><img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="bhavinbandhiya" height="40" width="40" /></a>
 <a href="https://instagram.com/ahir_.bhavin" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="ahir_.bhavin" height="40" width="40" /></a>
