@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavinbandhiya&label=Profile%20views&color=0e75b6&style=flat" alt="bhavinbandhiya" /> </p>
 
-<img align="right" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif"/>
+<img align="right" hight="400" width="400" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif"/>
 
 - 🌱 I’m currently learning **Everything**
 
