@@ -37,7 +37,9 @@
  <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
  <br>
  <h4 align="left">Other:</h4><br>
- <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
+ <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://vscode.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vscode" width="40" height="40"/> </a>
+  a href="https://intellij_idea.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/IntelliJ_IDEA_Edu_Icon.svg/1200px-IntelliJ_IDEA_Edu_Icon.svg.png" alt="ID" width="40" height="40"/> </a>
  </p>
 <hr>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavinbandhiya&show_icons=true&locale=en&layout=compact" alt="bhavinbandhiya" /></p>
