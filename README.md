@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavinbandhiya&label=Profile%20views&color=0e75b6&style=flat" alt="bhavinbandhiya" /> </p>
 
-<img align="right" src="https://camo.githubusercontent.com/b86a9047afd5ab67de4d8d1c1ce6293db7900b997bb10cfdeec7046e7f035fe3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f312a495247486d69477361313673746564517649615a66772e676966"/>
+<img align="right" src="https://camo.githubusercontent.com/716ee7cc5fca4bf92e56eb8a21ecde1a6e8eb69e45be0d0fabccd9fefc395a1a/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f62373933396437336433326362336365356534386138306464333564633539392f74656e6f722e676966"/>
 
 - 🌱 I’m currently learning **Everything**
 
