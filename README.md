@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://github.com/bhavinbandhiya" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="bhavin_bandhiya" height="40" width="40" /></a>
+ <a href="https://github.com/bhavinbandhiya" target="blank"><img align="center" src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" alt="bhavin_bandhiya" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/bhavin-bandhiya-85a2561a6/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="bhavin-bandhiya" height="40" width="40" /></a>
 <a href="https://www.codechef.com/users/bhavinbandhiya" target="blank"><img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="bhavinbandhiya" height="40" width="40" /></a>
 <a href="https://instagram.com/ahir_.bhavin" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="ahir_.bhavin" height="40" width="40" /></a>
@@ -39,7 +39,7 @@
  <h4 align="left">Other:</h4><br>
  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://vscode.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vscode" width="40" height="40"/> </a>
-  a href="https://intellij_idea.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/IntelliJ_IDEA_Edu_Icon.svg/1200px-IntelliJ_IDEA_Edu_Icon.svg.png" alt="ID" width="40" height="40"/> </a>
+  <a href="https://intellij_idea.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/IntelliJ_IDEA_Edu_Icon.svg/1200px-IntelliJ_IDEA_Edu_Icon.svg.png" alt="ID" width="40" height="40"/> </a>
  </p>
 <hr>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhavinbandhiya&show_icons=true&locale=en&layout=compact" alt="bhavinbandhiya" /></p>
