@@ -17,7 +17,7 @@
  <a href="https://github.com/bhavinbandhiya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" alt="bhavin_bandhiya" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/bhavin-bandhiya-85a2561a6/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="bhavin-bandhiya" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/bhavinbandhiya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bhavinbandhiya" height="30" width="40" /></a>
-<a href="https://instagram.com/ahir_.bhavin" target="blank"><img align="center" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/instagram/instagram-icon.svg" alt="ahir_.bhavin" height="30" width="40" /></a>
+<a href="https://instagram.com/ahir_.bhavin" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="ahir_.bhavin" height="30" width="40" /></a>
  <a href="https://twitter.com/bhavin_bandhiya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" alt="bhavin_bandhiya" height="30" width="40" /></a
 </p>
 <hr>
