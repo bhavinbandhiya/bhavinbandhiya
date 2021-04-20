@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavinbandhiya&label=Profile%20views&color=0e75b6&style=flat" alt="bhavinbandhiya" /> </p>
 
-<img align="right" src="https://camo.githubusercontent.com/716ee7cc5fca4bf92e56eb8a21ecde1a6e8eb69e45be0d0fabccd9fefc395a1a/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f62373933396437336433326362336365356534386138306464333564633539392f74656e6f722e676966"/>
+<img align="right" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif"/>
 
 - 🌱 I’m currently learning **Everything**
 
@@ -14,11 +14,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://github.com/bhavinbandhiya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" alt="bhavin_bandhiya" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/bhavin-bandhiya-85a2561a6/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="bhavin-bandhiya" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/bhavinbandhiya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="bhavinbandhiya" height="30" width="40" /></a>
+ <a href="https://github.com/bhavinbandhiya" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="bhavin_bandhiya" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/bhavin-bandhiya-85a2561a6/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="bhavin-bandhiya" height="40" width="40" /></a>
+<a href="https://www.codechef.com/users/bhavinbandhiya" target="blank"><img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="bhavinbandhiya" height="40" width="40" /></a>
 <a href="https://instagram.com/ahir_.bhavin" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="ahir_.bhavin" height="40" width="40" /></a>
- <a href="https://twitter.com/bhavin_bandhiya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" alt="bhavin_bandhiya" height="30" width="40" /></a
+ <a href="https://twitter.com/bhavin_bandhiya" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="bhavin_bandhiya" height="40" width="40" /></a
 </p>
 <hr>
 <h2 align="left">Languages and Tools:</h2>
