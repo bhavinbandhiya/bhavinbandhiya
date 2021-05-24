@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhavin Bandhiya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate web dev from India</h3>
 <hr>
 <link rel="preconnect" href="https://fonts.gstatic.com" />
 
